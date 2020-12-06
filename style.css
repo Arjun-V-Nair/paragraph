@@ -1,0 +1,12 @@
+body
+{
+    background: linear-gradient(to top right, #0000cc 42%, #ffd700 100%);
+}
+h1
+{
+    background: linear-gradient(to top right, #ff0000 80%, #ffffff 80%);
+}
+span
+{
+    width: 49%;
+}
